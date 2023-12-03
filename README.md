@@ -1,4 +1,6 @@
-# Dichotonomous_Search
+# Dichotomous_Search
+
+Implementation of dichotomous search in MATLAB for easy and efficient understanding of the concept
 
 ![image](https://github.com/syed-azim-git/Dichotonomous_Search/assets/99604368/4546538c-88d4-495f-aa82-6596037b3162)
 
