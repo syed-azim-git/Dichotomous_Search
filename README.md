@@ -1,4 +1,4 @@
-# Dichotomous_Search
+# Dichotomous Search and Golden Section Search
 
 Implementation of dichotomous search in MATLAB for easy and efficient understanding of the concept
 
